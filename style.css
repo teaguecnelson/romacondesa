@@ -17,7 +17,7 @@ h5,
 h6 {
   font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
 /*   color: #EEE0CD; */
-  color: #ffffff;
+  color: #F9F9EA;
 }
 
 h1 {
@@ -32,17 +32,17 @@ p {
   font-size: 1.25rem;
   font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
   /*   color: #EEE0CD; */
-  color: #ffffff;
+  color: #F9F9EA;
 }
 
 a:link {
 /*   color: blue */
-  color: #ffffff !important;
+  color: #F9F9EA !important;
 }
 
 a:visited {
 /*   color: purple  */
-  color: #ffffff;
+  color: #F9F9EA;
 }
 
 hr {
